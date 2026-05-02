@@ -1,0 +1,8 @@
+#echo "# xseon" >> README.md
+git инициализировать
+git добавить README.md
+git commit -m "первый коммит"
+ветвь git -M main
+git remote add origin https://github.com/marksimpelev/xseon.git
+git push -u origin main
+  
